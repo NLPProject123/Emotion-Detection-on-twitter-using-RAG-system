@@ -39,7 +39,7 @@ pip install transformers==4.11.3 tokenizers==0.10.3 sentence-transformers faiss-
 
 3.Run the notebook or script:
   ```bash 
-     python Twitter Tweet Recognition with BERT RAG.py
+     python Emotion Detection on twitter using RAG system.ipynb
 ```
 
 ## 🧪 Inference Example
